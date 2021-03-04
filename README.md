@@ -11,12 +11,13 @@ Project completed during my BSc in Biochemistry at the University of Southampton
 * address the problem of missing data
 
 ## Data analysis
-* UNSUPERVISED MACHINE LEARNING (hierarchical clustering, no proior information was known about the groups)
+* **UNSUPERVISED MACHINE LEARNING**
+  * hierarchical clustering, no proior information was known about the groups)
   * Pearson correlation heatmap (for computing distances using complete linkage)
-* CLUSTER ANALYSIS FOR SIGNIFICANT GROUPS
- * Kruskal-Wallis test for comparing groups
- * post-hoc Dunn's test with Benjamini-Hochberg p-value correction for finding which group was different
- * hypergeometric test for the probabilities of randomly picking the samples from a certain category
-* FURTHER ANALYSIS 
- * gene set enrichment (PANTHER)
- * PPIs network (STRING)
+* **CLUSTER ANALYSIS FOR SIGNIFICANT GROUPS**
+  * Kruskal-Wallis test for comparing groups
+  * post-hoc Dunn's test with Benjamini-Hochberg p-value correction for finding which group was different
+  * hypergeometric test for the probabilities of randomly picking the samples from a certain category
+* **FURTHER ANALYSIS** 
+  * gene set enrichment (PANTHER)
+  * PPIs network (STRING)
