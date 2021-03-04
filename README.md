@@ -12,7 +12,7 @@ Project completed during my BSc in Biochemistry at the University of Southampton
 
 ## Data analysis
 * **UNSUPERVISED MACHINE LEARNING**
-  * hierarchical clustering, no proior information was known about the groups)
+  * hierarchical clustering (no prior information was known about the groups)
   * Pearson correlation heatmap (for computing distances using complete linkage)
 * **CLUSTER ANALYSIS FOR SIGNIFICANT GROUPS**
   * Kruskal-Wallis test for comparing groups
