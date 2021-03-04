@@ -1,4 +1,4 @@
-# TCGA data mining for extablishing the relationship between sub-branches of Wnt signalling in colorectal cancer (CRC)
+# TCGA data mining for establishing the relationship between sub-branches of Wnt signalling in colorectal cancer (CRC)
 
 Project completed during my BSc in Biochemistry at the University of Southampton, 2018-2019.
 
