@@ -11,7 +11,7 @@ Project completed during my BSc in Biochemistry at the University of Southampton
 * address the problem of missing data
 
 ## Data analysis
-* uses ***gplots**, ***RColorBrewer*** and ***dunn.test*** R packages
+* uses ***gplots***, ***RColorBrewer*** and ***dunn.test*** R packages
 1. **EXPLORATORY DATA ANALYSIS**
    * check distribution of data
 3. **UNSUPERVISED MACHINE LEARNING**
